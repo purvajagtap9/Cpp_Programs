@@ -1,12 +1,12 @@
 My Programming Practice
-This repository contains all my C programs.
+This repository contains all my Cpp programs.
 
 Topics Covered
-Basics
-Loops
-If-else
-Pointer
-Array
-Function
-Structure
-String
+OOP
+Casting
+Overriding
+Function Overloading
+Constructor
+Dynamic Memory
+Static Data
+
